@@ -3,7 +3,8 @@
 ## Introduction
 An end‑to‑end data analytics project on the Pima Indians Diabetes Dataset, focusing on data cleaning, exploratory data analysis (EDA), and insight generation, with a simple Streamlit dashboard for interactive exploration.
 
-**Diabetes Streamlit WebApp:**
+## Diabetes Streamlit WebApp:
+
 View the interactive Dashboard here: 
 
 https://diabetes-prediction-webapp-vkvayp69cey8nhe4hb8wgr.streamlit.app/
