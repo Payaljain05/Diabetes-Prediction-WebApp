@@ -3,6 +3,10 @@
 ## Introduction
 An end‑to‑end data analytics project on the Pima Indians Diabetes Dataset, focusing on data cleaning, exploratory data analysis (EDA), and insight generation, with a simple Streamlit dashboard for interactive exploration.
 
+**Diabetes Streamlit WebApp:**
+View the interactive Dashboard here: 
+
+https://diabetes-prediction-webapp-vkvayp69cey8nhe4hb8wgr.streamlit.app/
 
 ## 1. Project Overview
 This project answers a central question:
@@ -13,9 +17,7 @@ How do health indicators such as glucose, blood pressure, BMI, age, and others r
 
 - Clean and analyze the diabetes dataset to identify patterns and risk factors.
 - Visualize relationships between health metrics and diabetes outcome to support data‑driven decisions.
-- Provide an interactive web dashboard where users can explore indicators and see the predicted risk for a given patient profile.
-
----​
+- Provide an interactive web dashboard where users can explore indicators and see the predicted risk for a given patient profile.​
 
 ## 2. Tech Stack
 **Language:** Python
@@ -80,6 +82,9 @@ Display key stats (e.g., entered BMI category, how the patient’s glucose compa
 **Risk Result:**
 
 Show whether the profile is classified as at risk for diabetes, along with a brief explanation referencing the most influential indicators.
+
+**Diabetes Web App Preview**
+![Diabetes Webapp](diabetes_webapp.png)
 
 ---
 ​
