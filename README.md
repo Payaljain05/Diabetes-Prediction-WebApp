@@ -1,11 +1,8 @@
 # Diabetes Data Analysis Dashboard
 
----
-
 ## Introduction
 An end‑to‑end data analytics project on the Pima Indians Diabetes Dataset, focusing on data cleaning, exploratory data analysis (EDA), and insight generation, with a simple Streamlit dashboard for interactive exploration.
 
----​
 
 ## 1. Project Overview
 This project answers a central question:
@@ -87,7 +84,6 @@ Show whether the profile is classified as at risk for diabetes, along with a bri
 ---
 ​
 ## 6. Key Insights 
-
 - Patients with higher glucose and BMI levels show a significantly higher proportion of positive diabetes outcomes.
 - Older age groups (e.g., 40+) have a higher diabetes rate compared with younger groups.
 - Some clinical measurements contain many zeros, highlighting potential data quality issues that must be handled before modeling.
